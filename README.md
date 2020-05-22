@@ -18,7 +18,7 @@ To build SmartCookieWeb-Dekstop, run the following commands in the root folder:
 
 > npm run rebuild
 
-and to run the app:
+and to run the app (please note that if you encounter issues with the development version, try building an executable and see if the bug appears there):
 
 > npm run dev
 
