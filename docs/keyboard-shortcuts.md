@@ -1,4 +1,4 @@
-# Available keyboard shortcuts in Wexond
+# Available keyboard shortcuts in Smart Cookie Web Desktop
 
 ## Windows and Linux
 
@@ -19,7 +19,7 @@
 | Close current window        | `Ctrl + Shift + W` or `Alt + F4` |
 | Close Wexond                | `Ctrl + Shift + Q`               |
 
-### Wexond feature shortcuts
+### Smart Cookie Web Desktop feature shortcuts
 
 | Action                                  | Shortcut                        |
 | --------------------------------------- | ------------------------------- |
@@ -59,7 +59,7 @@
 | Hide Wexond                 | `⌘ + H`                      |
 | Close Wexond                | `⌘ + Q`                      |
 
-### Wexond feature shortcuts
+### Smart Cookie Web Desktop feature shortcuts
 
 | Action                                  | Shortcut         |
 | --------------------------------------- | ---------------- |
