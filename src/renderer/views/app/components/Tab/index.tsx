@@ -162,7 +162,7 @@ const onContextMenu = (tab: ITab) => () => {
       type: 'separator',
     },
     {
-      label: 'Close current tab',
+      label: 'Close tab',
       accelerator: 'CmdOrCtrl+W',
       click: () => {
         tab.close();

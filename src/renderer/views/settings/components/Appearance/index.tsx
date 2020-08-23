@@ -103,8 +103,8 @@ const BookmarksBar = observer(() => {
 export const Appearance = observer(() => {
   return (
     <>
-      <Header>Display Settings</Header>
-      <MenuAnimations />
+      <Header>Appearance</Header>
+      {/* <MenuAnimations /> */}
       <BookmarksBar />
       <WarnQuit />
       <ThemeVariant />
