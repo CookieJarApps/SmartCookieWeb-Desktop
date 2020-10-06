@@ -1,5 +1,7 @@
 # SmartCookieWeb-Desktop
 
+**This project is currently on hold. In the short term, I plan to add Firefox Sync support to SmartCookieWeb for Android so you can share bookmarks, etc with a desktop browser. I'll eventually resume working on this when I have some more time.**
+
 SmartCookieWeb-Desktop is a web brower for PCs based on Wexond and designed to be as similar to SmartCookieWeb for Android as possible whilst still remaining suited to use with a mouse and keyboard. If you would like an identical experience, including the touchscreen-based UI, your best option is Anbox.
  
 # Setup
